@@ -1,0 +1,3 @@
+Stream in Java - process collections of objects, support various methods can be pipelined to produce results.
+Filter  - for conditional check
+forEach - for iteration

@@ -1,0 +1,7 @@
+Consumer<T> used in all contexts where an object needs to be consumed. takes as input,
+some operation is  to be performed on the object WITHOUT returning any result
+
+Predicate<T> used for conditional check
+true/false returning functions in day to day => Predicate
+
+Supplier in all context where no input  but an output expected.

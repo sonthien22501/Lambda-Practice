@@ -1,0 +1,4 @@
+map() method => used for transformation -> produces single value for each input value -> 1 to 1 mapping
+flatmap() method => transformation and flattering =>-> multiple values for each input value -> 1 to many mapping
+
+flatmap() = map() + flattering
